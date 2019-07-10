@@ -1,6 +1,6 @@
 # tika-xlsx
 
-Compile Apache Tika json files to desirable xlsx format
+Compile Apache Tika json files to a desired xlsx format
 
 ## Installation
 
